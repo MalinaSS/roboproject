@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/roboproject/static/css/main.15bbd9d2.chunk.css",
-    "main.js": "/roboproject/static/js/main.49998833.chunk.js",
-    "main.js.map": "/roboproject/static/js/main.49998833.chunk.js.map",
+    "main.js": "/roboproject/static/js/main.4455e2c4.chunk.js",
+    "main.js.map": "/roboproject/static/js/main.4455e2c4.chunk.js.map",
     "runtime-main.js": "/roboproject/static/js/runtime-main.65f2cc0c.js",
     "runtime-main.js.map": "/roboproject/static/js/runtime-main.65f2cc0c.js.map",
     "static/css/2.036b41f9.chunk.css": "/roboproject/static/css/2.036b41f9.chunk.css",
     "static/js/2.2b73e027.chunk.js": "/roboproject/static/js/2.2b73e027.chunk.js",
     "static/js/2.2b73e027.chunk.js.map": "/roboproject/static/js/2.2b73e027.chunk.js.map",
     "index.html": "/roboproject/index.html",
-    "precache-manifest.831b96ba2659f46eb858f8dc0187144d.js": "/roboproject/precache-manifest.831b96ba2659f46eb858f8dc0187144d.js",
+    "precache-manifest.a7b3c2b79400f94ab0745fab438ffd69.js": "/roboproject/precache-manifest.a7b3c2b79400f94ab0745fab438ffd69.js",
     "service-worker.js": "/roboproject/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/roboproject/static/css/2.036b41f9.chunk.css.map",
     "static/css/main.15bbd9d2.chunk.css.map": "/roboproject/static/css/main.15bbd9d2.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.036b41f9.chunk.css",
     "static/js/2.2b73e027.chunk.js",
     "static/css/main.15bbd9d2.chunk.css",
-    "static/js/main.49998833.chunk.js"
+    "static/js/main.4455e2c4.chunk.js"
   ]
 }
